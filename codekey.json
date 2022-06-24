@@ -1,7 +1,4 @@
-<html>
-<body>
-<pre>
-<code>
+
 {
   "title": "The Basics - Networking",
   "description": "Your app fetched this from a remote endpoint!",
@@ -34,7 +31,3 @@
   ]
 }
 
-</code>
-</pre>
-</body>
-</html>
